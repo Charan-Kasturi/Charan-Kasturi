@@ -31,6 +31,7 @@ I'm pursuing my **Master of Engineering in Robotics** at the **University of Mar
 - Email: [charan03@terpmail.umd.edu](mailto:charan03@terpmail.umd.edu)
 
 Thank you for visiting! 🚀 
+Don’t forget to check out my amazing [project repositories](https://github.com/Charan-Kasturi?tab=repositories) to see the robots in action and explore my latest work!
 
 
 ---
