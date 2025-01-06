@@ -27,7 +27,7 @@ I'm pursuing my **Master of Engineering in Robotics** at the **University of Mar
 
 ### 🌐 Connect with Me
 
-- LinkedIn: [charan-kasturi-4003ba285](https://www.linkedin.com/in/charan-kasturi-4003ba285/)
+- LinkedIn: [charan-kasturi-4003ba285](https://www.linkedin.com/in/charan-kasturi/)
 - Email: [charan03@terpmail.umd.edu](mailto:charan03@terpmail.umd.edu)
 
 Thank you for visiting! 🚀 
