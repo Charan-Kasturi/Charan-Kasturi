@@ -1,6 +1,6 @@
 # 🤖 Welcome to My Robotics Projects Repository
 
-Hello! I'm [Charan Kasturi](https://www.linkedin.com/in/charan-kasturi-4003ba285/), a Robotics Engineer specializing in Robotics,Autonomous Systems and AI. I’m passionate about building innovative robotics solutions for real-world challenges—from autonomous navigation to predictive maintenance using machine learning.
+Hello! I'm [Charan Kasturi](https://www.linkedin.com/in/charan-kasturi-4003ba285/), a Robotics Engineer specializing in Robotics, Autonomous Systems and AI. I’m passionate about building innovative robotics solutions for real-world challenges.
 
 <div align="center">
   <img src="DanceBot.gif" alt="Dancing Robot Animation" width="300"/>
